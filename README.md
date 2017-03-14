@@ -4,7 +4,7 @@ I've been using and what kind of apps I've been doing.
 
 ##Android
 
-###Projects and Repositories
+###Projects and Portifolio
 [Dieta e Saúde](https://play.google.com/store/apps/details?id=com.buscaalimento.android) - Weight loss app
 [MyInsta](https://github.com/cuchas/myinsta) - Android Gallery app case, uses MVP, UnitTesting, Camera and FileSystem
 [shareApp] - ASPNET MVC app show casing use of Dependency Injection with StructureMap framework
