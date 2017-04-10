@@ -8,7 +8,7 @@ I've been using and what kind of apps I've been doing.
 ## <a name="android">Android</a>
 
 ### Projects and Portifolio
-* [Solved] (https://github.com/cuchas/solved) A collection of algorithms and computing solved problems.
+* [Solved](https://github.com/cuchas/solved) A collection of algorithms and computing solved problems.
 * [Dieta e Saúde](https://play.google.com/store/apps/details?id=com.buscaalimento.android) - Weight loss app
 * [MyInsta](https://github.com/cuchas/myinsta) - Android Gallery app, it uses MVP, UnitTesting, Camera and FileSystem
 * [ShareApp](https://github.com/cuchas/shareApp) - ASP.NET MVC app to demonstrate dependency injection using StructureMap
